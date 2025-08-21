@@ -1,2 +1,2 @@
-# chevrefoil.github.io
-Webpage
+# Chevrefoil
+Landing page for https://chevrefoil.com/
